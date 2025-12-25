@@ -81,10 +81,3 @@ This repository does not include a license file. If you want to reuse or redistr
 - Add packaging or an installer for the GUI on Windows.
 
 ---
-
-If you'd like, I can also:
-- Add a small `requirements.txt` or `pyproject.toml` for the Python side.
-- Create a Windows batch or PowerShell script to build/run the C++ backend automatically.
-- Add an explicit license file.
-
-Tell me which of those you'd like me to do next.
